@@ -9,7 +9,7 @@ Para rodar o projeto, siga os passos abaixo:
 
 1. Clone o repositório:
    ```bash
-   git clone <URL_DO_REPOSITORIO>
+   git clone https://github.com/GabrielHenrique-K/Chatbot-Andre.git
    ```
 
 2. Instale as dependências:
